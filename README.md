@@ -9,6 +9,9 @@ Material desarrollado con base en los contenidos de MSLearn y la metáfora de La
 # Como está estructurado
 En cada módulo está el archivo de referencia original (con Módulo) y el ejercicio realizado de cada Kata (Modulo "sin acento"), en el caso del Módulo 2 se agregan las carpetas generadas por el enviroment.
 
+En el caso de las Kata de 7 a 10 aún no se realizan al día 13-Feb-2022.
+
+
 ```
 ├── Módulo 0 - Preparación del entorno de trabajo
 │   ├── Modulo0Katas.ipynb
@@ -17,8 +20,6 @@ En cada módulo está el archivo de referencia original (con Módulo) y el ejerc
 │   ├── Modulo1 - Primeros pasos.ipynb
 │   ├── Modulo1Katas.ipynb
 │   └── Módulo1Katas.ipynb
-├── Módulo 10 - Manejo de errores
-│   └── Módulo 10 - Manejo de errores.md
 ├── Módulo 2 - Crear y administrar proyectos
 │   ├── Modulo2Katas.md
 │   ├── Módulo 2 - Crear y administrar proyectos.md
